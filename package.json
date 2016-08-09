@@ -1,6 +1,6 @@
 {
   "name": "promisefall",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "give it a promise, array of arguments, and go back and watch the promise waterfall and get the array of result at the end of that!",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,15 @@
     "chaining",
     "sequential"
   ],
+  "bugs": {
+    "url": "https://github.com/AliKarami/promisefall/issues"
+  },
   "author": "Ali Karami",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliKarami/promisefall.git"
+  },
   "dependencies": {
     "promise": "^7.0.1"
   }
