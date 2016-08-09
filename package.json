@@ -1,0 +1,23 @@
+{
+  "name": "promisefall",
+  "version": "0.0.1",
+  "description": "give it a promise, array of arguments, and go back and watch the promise waterfall and get the array of result at the end of that!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promises",
+    "waterfall",
+    "promisefall",
+    "promise",
+    "chain",
+    "chaining",
+    "sequential"
+  ],
+  "author": "Ali Karami",
+  "license": "MIT",
+  "dependencies": {
+    "promise": "^7.0.1"
+  }
+}
