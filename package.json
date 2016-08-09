@@ -1,6 +1,6 @@
 {
   "name": "promisefall",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "give it a promise, array of arguments, and go back and watch the promise waterfall and get the array of result at the end of that!",
   "main": "index.js",
   "scripts": {
